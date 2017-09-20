@@ -11,16 +11,24 @@ img {
 p {
   color: black;
   /*font-family: Helvetica, Arial, sans-serif;*/
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 h1 {
   /*font-family: Georgia, "Times New Roman", serif;*/
   font-family: 'Merriweather', Georgia, "Times New Roman", serif;
+  color: #5D7F1F;
+}
+
+ul {
+  font-family: 'Courgette', cursive;
+  list-style-position: inside;
+  color: #8B5CBA
 }
 
 body {
-  background-color: #ebe3c3;
+  background-color: #D1F4BA;
+  text-align: center;
 }
 
 #container {
@@ -63,15 +71,3 @@ body {
   background-color: #7a991a;
   text-decoration: underline;
 }
-
-
-
-
-
-
-
-
-
-
-
-{}
